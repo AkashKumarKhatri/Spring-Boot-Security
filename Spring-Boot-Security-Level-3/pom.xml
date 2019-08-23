@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sapphire</groupId>
-	<artifactId>Spring-Boot-Security-Level-2</artifactId>
+	<artifactId>Spring-Boot-Security-Level-3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring-Boot-Security-Level-2</name>
-	<description>How to configure Spring Security Authentication</description>
+	<name>Spring-Boot-Security-Level-3</name>
+	<description>How to configure Spring Security Authorization</description>
 
 	<properties>
 		<java.version>1.8</java.version>
